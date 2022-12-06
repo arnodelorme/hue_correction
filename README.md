@@ -6,5 +6,5 @@ It allows defining a region of the image that should be constant in color and th
 
 I have used it for Screenflow. Click on the image to access the video.
 
-[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/1872705/205856942-06f06934-8acf-42b9-8c14-73778cc56181.png)](https://www.youtube.com/watch?v=VpGbiIvoPrs)
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/1872705/205857266-14f5615a-8b56-416d-b36a-8f9137e8afeb.png)](https://www.youtube.com/watch?v=VpGbiIvoPrs)
 
